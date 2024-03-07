@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinaychhabra
 - 👀 I’m interested in html, css, php, react and node
-- 🌱 I’m currently learning react and node
+- 🌱 I’m currently learning MERN stacks
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me mail:vchhabra10feb@gmail.com
 
