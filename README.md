@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at <a src="https://linktr.ee/vinaychhabra">Linktree Profile</a>
+- 👨‍💻 All of my projects are available at <a href="https://linktr.ee/vinaychhabra">Linktree Profile</a>
 
 - 📫 Connect with me: **<a href = "mailto: vinaychhabra.dev@gmail.com">vinaychhabra.dev@gmail.com</a>**
 
