@@ -9,7 +9,7 @@
 
 - 📫 Connect with me: **<a href = "mailto: vinaychhabra.dev@gmail.com">vinaychhabra.dev@gmail.com</a>**
 
-- 📄 Know about my experiences: <a class="btn line-btn-dark btn-icon btn-radius" href="https://drive.google.com/file/d/1eDgnzH4Q0ko-givqv9Bp0fZN3BeKTYCe/view?usp=sharing" title="" download>Resume</a> 
+- 📄 Know about my experiences: <a class="btn line-btn-dark btn-icon btn-radius" href="https://drive.google.com/file/d/17MH25l2LE1XfQrjcoPmSuWX7jLgCh6zi/view?usp=sharing" title="" download>Resume</a> 
 
 
 
