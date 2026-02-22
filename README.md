@@ -21,7 +21,7 @@ Python Developer with 3+ years of experience building scalable backend systems a
 |---|---|
 | 🎯 **Role** | Python Developer & Backend Engineer |
 | 🏗️ **Currently Building** | [Cuizly](https://cuizly.ca) - AI-powered restaurant platform |
-| 💼 **Experience** | 3+ years in software development |
+| 💼 **Experience** | 6+ years in website development |
 | 🛠️ **Expertise** | FastAPI, REST APIs, Database Design |
 | 📍 **Location** | Toronto, Canada |
 
