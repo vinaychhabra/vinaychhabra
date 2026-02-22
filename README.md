@@ -21,7 +21,7 @@ Python Developer with 3+ years of experience building scalable backend systems, 
 |---|---|
 | 🎯 **Role** | Python Developer & Backend Engineer |
 | 🏗️ **Currently Building** | [Cuizly](https://cuizly.ca) - AI-powered restaurant platform |
-| 💼 **Experience** | 3+ years in software development |
+| 💼 **Experience** | 5+ years in website development |
 | 🛠️ **Expertise** | FastAPI, Magento 2, REST APIs, Database Design |
 | 📍 **Location** | Toronto, Canada |
 
@@ -105,7 +105,7 @@ Python Developer with 3+ years of experience building scalable backend systems, 
   
   ![Extensions](https://img.shields.io/badge/Custom_Extensions_Built-10+-orange?style=for-the-badge)
   ![Tickets](https://img.shields.io/badge/Support_Tickets_Resolved-200+-green?style=for-the-badge)
-  ![Experience](https://img.shields.io/badge/Years_Experience-3+-blue?style=for-the-badge)
+  ![Experience](https://img.shields.io/badge/Years_Experience-5+-blue?style=for-the-badge)
   
 </p>
 
