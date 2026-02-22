@@ -15,14 +15,14 @@
 
 ### About Me
 
-Python Developer with 3+ years of experience building scalable backend systems and REST APIs. Currently developing AI-powered solutions at [Cuizly](https://cuizly.ca). Passionate about clean code, efficient architectures, and solving complex problems.
+Python Developer with 3+ years of experience building scalable backend systems, REST APIs, and e-commerce solutions. Developed 10+ custom Magento 2 extensions and resolved 200+ technical support tickets. Currently developing AI-powered solutions at [Cuizly](https://cuizly.ca). Passionate about clean code, efficient architectures, and solving complex problems.
 
 | | |
 |---|---|
 | 🎯 **Role** | Python Developer & Backend Engineer |
 | 🏗️ **Currently Building** | [Cuizly](https://cuizly.ca) - AI-powered restaurant platform |
-| 💼 **Experience** | 6+ years in website development |
-| 🛠️ **Expertise** | FastAPI, REST APIs, Database Design |
+| 💼 **Experience** | 3+ years in software development |
+| 🛠️ **Expertise** | FastAPI, Magento 2, REST APIs, Database Design |
 | 📍 **Location** | Toronto, Canada |
 
 ---
@@ -64,13 +64,50 @@ Python Developer with 3+ years of experience building scalable backend systems a
   <a href="https://1rupeeproject.com">
     <img src="https://img.shields.io/badge/💰_1_Rupee_Project-Crowdfunding-green?style=for-the-badge"/>
   </a>
+  <a href="https://cohomacoffee.com">
+    <img src="https://img.shields.io/badge/☕_Cohoma_Coffee-E--Commerce-orange?style=for-the-badge"/>
+  </a>
+  <a href="https://purpleunited.com">
+    <img src="https://img.shields.io/badge/💜_Purple_United-E--Commerce-purple?style=for-the-badge"/>
+  </a>
 </p>
+
+#### Python / FastAPI Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Cuizly](https://cuizly.ca)** | AI-powered platform integrating 5+ food delivery apps into unified dashboard | Python, FastAPI, PostgreSQL |
 | **[1 Rupee Project](https://1rupeeproject.com)** | Crowdfunding platform enabling secure donations and campaign tracking | Python, FastAPI, MySQL |
 | **Cabill** | Invoice management system for college professors hourly billing | Python, FastAPI, MySQL |
+
+#### Magento 2 / PHP Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Cohoma Coffee](https://cohomacoffee.com)** | Full-featured e-commerce store for premium coffee brand | PHP, Magento 2, MySQL |
+| **[Purple United](https://purpleunited.com)** | E-commerce platform with custom functionality and integrations | PHP, Magento 2, MySQL |
+
+#### Custom Magento 2 Extensions Developed
+
+| Extension | Description |
+|-----------|-------------|
+| 🔔 **Price Drop Alert** | Notifies customers when product prices decrease |
+| 💼 **Job Board** | Career portal integration for company hiring |
+| 📦 **Return Order Management** | Streamlined RMA process for order returns |
+| 💳 **Razorpay Integration** | Payment gateway integration for Indian market |
+| 🎟️ **Refund via Coupon Code** | Automated coupon generation and email delivery for refunds |
+
+---
+
+### 📈 Highlights
+
+<p align="center">
+  
+  ![Extensions](https://img.shields.io/badge/Custom_Extensions_Built-10+-orange?style=for-the-badge)
+  ![Tickets](https://img.shields.io/badge/Support_Tickets_Resolved-200+-green?style=for-the-badge)
+  ![Experience](https://img.shields.io/badge/Years_Experience-3+-blue?style=for-the-badge)
+  
+</p>
 
 ---
 
